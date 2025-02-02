@@ -24,7 +24,7 @@ jobs:
       run: dotnet restore FilesDropper.csproj
 
     - name: Publish as single-file executable
-      run: dotnet publish FilesDropper.csproj --configuration Release --output ./publish --runtime win-x64 /p:PublishSingleFile=true /p:PublishTrimmed=true
+      run: dotnet publish FilesDropper.csproj --configuration Release --output ./publish --runtime win-x64 /p:PublishSingleFile=true
 
     - name: Create a Release
       id: create_release

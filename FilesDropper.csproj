@@ -18,7 +18,7 @@
         <FileVersion>1.0.0</FileVersion>
         <Product>FilesDropper</Product>
         <Authors>Lyrcaxis</Authors>
-        <Description>A handy utility that allows users to drag'n'drop files into the small window to retrieve their formatted content and/or structures to the clipboard.</Description>
+        <Description>A handy utility that allows users to visualize files via drag'n'drop. Drop files/folders into the small window to retrieve their formatted content and/or structures to the clipboard.</Description>
     </PropertyGroup>
 
 </Project>
