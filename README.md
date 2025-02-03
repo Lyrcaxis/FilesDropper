@@ -3,6 +3,9 @@
 # FilesDropper
 *A magical drag-and-drop clipboard wizard for developers*
 
+![FilesDropper_Modes](https://github.com/user-attachments/assets/c8a8c051-b182-401e-b467-a391910b0b0e)
+
+
 With the absurd rise of AI popularity, being able to easily share a list or visualization of files can come handy. FilesDropper addresses those needs by providing a minimal, lightweight, and easily accessible multi-purpose UI.
 
 ![image](https://github.com/user-attachments/assets/853f70d2-c54e-47d2-b94c-866d70549d9f)
